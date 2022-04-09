@@ -7,9 +7,9 @@
 目前处于收录阶段
 
 - 收录
-	- [自主提交](Submit.md)
-	- [人工收录](Manual.md)
+	- [自主提交](./document/Submit.md)
+	- [人工收录](./document/Manual.md)
 - 博客分类
-	- [Tag规范](Tag.md)
+	- [Tag规范](./document/Tag.md)
 - 排序（暂未进行至此步骤）
-	- [排序依据](Sort.md)
+	- [排序依据](./document/Sort.md)
