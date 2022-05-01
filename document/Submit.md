@@ -1,6 +1,6 @@
 # 中文博客自主提交
 
-您可以通过[该页面](https://github.com/zh-blogs/blog-daohang/issues)提交issue，在项目维护组查阅后，会添加/修改进入博客列表。
+您可以通过[该页面](https://zhblogs.ohyee.cc/manager/join)提交issue，在项目维护组查阅后，会添加/修改进入博客列表。
 
 填写时要求如下格式：
 
