@@ -11,5 +11,3 @@
 	- [人工收录](./document/Manual.md)
 - 博客分类
 	- [Tag规范](./document/Tag.md)
-- 排序（暂未进行至此步骤）
-	- [排序依据](./document/Sort.md)
