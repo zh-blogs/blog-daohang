@@ -12,4 +12,4 @@
 - 博客分类
 	- [Tag规范](./document/Tag.md)
 - 部分博客
-  - [精选博客](./document/Recommend.md)
+  	- [精选博客](./document/Recommend.md)
