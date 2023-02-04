@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/github/stars/zh-blogs/blog-daohang?style=for-the-badge" referrerpolicy="no-referrer" alt="stars">  <img src="https://img.shields.io/badge/%E7%9B%AE%E5%89%8D%E7%89%88%E6%9C%AC-V2-reen?style=for-the-badge" referrerpolicy="no-referrer" alt="stars">  <img src="https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E4%B8%AD-V3-orange?style=for-the-badge" referrerpolicy="no-referrer" alt="stars">
 
-目前我们依旧在维护 [ V2 版本](https://github.com/zh-blogs/v2) 的项目程序，而 V3 版本的项目程序正在计划开发中，诚挚邀请对项目感兴趣的您参与 V3 版本的开发当中
+目前我们依旧在维护 [ V2 版本](https://github.com/zh-blogs/v2) 的项目程序，V3 版本的项目程序正在计划开发中，诚挚邀请对项目感兴趣的您参与 V3 版本的开发当中
 
 [中文博客列表导航V3版本前端](https://github.com/zh-blogs/frontend)
 
@@ -15,8 +15,8 @@
 此项目尝试链接全部中文独立博客，目前含有如下功能：
 
 1. **查看随机推荐的博客**。
-2. **随机前往已收录的博客**，您可以通过在 URL 添加参数进行指定类型博客的随机跳转，如：https://zhblogs.ohyee.cc/go?tags=生活 ，即可随机访问生活类博客。
-3. 查看本项目**收录博客的部分数据统计**（如：**博客架构统计**、**域名统计**、**分类统计**等）。
+2. **随机前往已收录的博客**，您可以通过在 URL 添加参数进行指定类型博客的随机跳转，如：[https://zhblogs.ohyee.cc/go?tags=生活](https://zhblogs.ohyee.cc/go?tags=生活)，即可随机访问生活类博客。
+3. 查看本项目**收录博客的部分数据统计**（如：**博客架构统计**、**域名统计**等）。
 
 本项目会依照**标签标准对博客进行分类**，您可以访问[中文博客列表导航](https://zhblogs.ohyee.cc/)浏览收录的博客列表，并且可以通过标签系统对您感兴趣的博客进行筛选。    
 
