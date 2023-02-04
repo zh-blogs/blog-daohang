@@ -1,8 +1,16 @@
 ## 中文博客列表导航项目
 
-<img align="right" src="./logo.png" alt="logo" height="128px" style="border-radius: 20px;"/>
+<img align="right" src="https://avatars.githubusercontent.com/u/102334874" alt="logo" height="128px" style="border-radius: 20px;"/>
 
 <img src="https://img.shields.io/github/stars/zh-blogs/blog-daohang?style=for-the-badge" referrerpolicy="no-referrer" alt="stars"><img src="https://img.shields.io/badge/%E7%9B%AE%E5%89%8D%E7%89%88%E6%9C%AC-V2-reen?style=for-the-badge" referrerpolicy="no-referrer" alt="stars"><img src="https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E4%B8%AD-V3-orange?style=for-the-badge" referrerpolicy="no-referrer" alt="stars">
+
+目前我们依旧在维护 [ V2 版本](https://github.com/zh-blogs/v2) 的项目程序，而 V3 版本的项目程序正在计划开发中，诚挚邀请对项目感兴趣的您参与 V3 版本的开发当中
+
+[中文博客列表导航V3版本前端](https://github.com/zh-blogs/frontend)
+
+[中文博客列表导航V3版本后端](https://github.com/zh-blogs/backend) 
+
+---
 
 此项目尝试链接全部中文独立博客，并通过本项目的标签标准对博客进行分类，便于访问，您可以访问 [中文博客列表导航](https://zhblogs.ohyee.cc/) 浏览收录的博客列表，并且可以通过标签系统对您感兴趣的博客进行筛选。    
 
@@ -29,28 +37,40 @@
 
 我们对项目实行的相关标准和流程公示如下：
 
-|               标准名称               |                   标准说明                   |
-| :----------------------------------: | :------------------------------------------: |
-| [博客定义](./document/Definition.md) |   本项目对于个人博客的定义、博客收录的标准   |
-|  [博客收录](./document/Included.md)  | 维护组收录的博客说明、自主提交博客收录的说明 |
-|  [精选博客](./document/Selected.md)  |       本项目对精选博客的定义和筛选说明       |
-|    [博客分类](./document/Tag.md)     |     本项目对于博客的分类和博客 Tag 说明      |
+|               标准名称               |                           标准说明                           |
+| :----------------------------------: | :----------------------------------------------------------: |
+| [博客定义](./document/Definition.md) |           本项目对于个人博客的定义、博客收录的标准           |
+|  [博客收录](./document/Included.md)  | 维护组收录的博客说明、自主提交博客收录的说明、对项目收录上游库进行说明 |
+|  [精选博客](./document/Selected.md)  |               本项目对精选博客的定义和筛选说明               |
+|    [博客分类](./document/Tag.md)     |             本项目对于博客的分类和博客 Tag 说明              |
 
 您可以阅读以上项目的部分细则，也欢迎您对部分细则提出建议或意见，用以不断完善相关标准和流程。
 
 ### 感谢以下成员对本项目的贡献（按照首字母排序）
 
-| 项目技术组 | 列表维护组 |
+| 项目技术组（负责项目程序开发与维护） | 列表维护组（负责列表数据维护） |
 | :--------: | :--------: |
 |   [Innei](https://github.com/Innei)    |   [Dian-C](https://github.com/Dian-C)   |
 |  [jsun969](https://github.com/jsun969)   |  [huziyan1](https://github.com/huziyan1)  |
-|   [Mabbs](https://github.com/Mabbs)    | [jonepengcn](https://github.com/jonepengcn) |
-|   [OhYee（项目技术组负责人）](https://github.com/OhYee)   |  [Kagurain](https://github.com/Kagurain)  |
-|   [soxft（项目技术组负责人）](https://github.com/soxft)   | [liangmis](https://github.com/liangmis)  |
-| [wibus-wee](https://github.com/wibus-wee)  | [linlinzzo（列表维护组负责人）](https://github.com/linlinzzo) |
-|    [zkeq](https://github.com/zkeq)    |   [MYXXTS（列表维护组负责人）](https://github.com/MYXXTS)   |
+| [OhYee（项目技术组负责人）](https://github.com/OhYee) | [jonepengcn](https://github.com/jonepengcn) |
+|   [soxft（项目技术组负责人）](https://github.com/soxft)   |  [Kagurain](https://github.com/Kagurain)  |
+|   [wibus-wee](https://github.com/wibus-wee)   | [liangmis](https://github.com/liangmis)  |
+| [zkeq](https://github.com/zkeq) | [linlinzzo（列表维护组负责人）](https://github.com/linlinzzo) |
+|        |   [MYXXTS（列表维护组负责人）](https://github.com/MYXXTS)   |
 |            | [Timozaici](https://github.com/Timozaici)  |
-|            |   [yzqzss](https://github.com/yzqzss)   |
 
+### 感谢以下网站对本项目的宣传
 
+[友链 – 阿锋的小宇宙 (feng.pub)](https://feng.pub/links)
 
+[中文独立博客圈 - 博客志 (jetli.com.cn)](http://www.jetli.com.cn/quan.html)
+
+[中文博客列表导航项目 - 杜老师说 (dusays.com)](https://dusays.com/494/)
+
+[友情链接 · 雅余 · 茶余饭后，闲情雅致 (yayu.net)](https://www.yayu.net/links/)
+
+[左邻右舍 - HONG的小站 (hongweblog.com)](https://hongweblog.com/friend)
+
+[谈谈几个博客聚合网站，以及个人推荐 – 铎鸣也 (wordpress.com)](https://zhengduo.wordpress.com/2022/12/09/zh-blogs-site-link/)
+
+[万亿及秭 - peachRL的小站 (wanyijizi.com)](https://wanyijizi.com/)
