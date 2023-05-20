@@ -28,10 +28,10 @@
 
 |项目名称|项目地址|
 |-----------|--------|
-|中文独立博客列表| https://github.com/timqian/chinese-independent-blogs |
-|BlogFinder| https://bf.zzxworld.com/ |
-|十年之约| https://www.foreverblog.cn/ |
-|博客志| http://www.jetli.com.cn/ |
+|中文独立博客列表| <https://github.com/timqian/chinese-independent-blogs> |
+|BlogFinder| <https://bf.zzxworld.com> |
+|十年之约| <https://www.foreverblog.cn> |
+|博客志| <http://www.jetli.com.cn> |
 
 我们对于上游库的维护人员表达衷心的感谢。
 
