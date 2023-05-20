@@ -20,7 +20,7 @@
 
 3. 文档编写
 
-    编写过程中，请遵守[文档编写规范](#文档编写规范)
+    编写过程中，请遵守[文档编写规范](./DOCUMENTATIONSTYLE.md)
 
     建议使用 [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) VScode 插件对 Markdown 文档语法进行检查和文档预览，确保无 Markdown 语法警告。
 
@@ -46,14 +46,14 @@
 - scope 用于说明 pr/commit 影响的范围，填写内容参见下文
 - subject 是 pr/commit 目的的简短描述，语言不限，结尾不加任何标点符号
 
-> 如果你的文档尚未完成，请点击 Draft Pull Request，而不是 Open Pull Request
+> 如果您的文档尚未完成，请点击 Draft Pull Request，而不是 Open Pull Request
 
 ### 修改类型说明
 
 - feat：新建标准大项——新文档（feature）
 - fix：修复文档漏洞，对部分文档说明进行修改
 - add: 新增标准子项——在已有文档基础上新增子项目说明
-- style：规范（不影响文档表意的变动）
+- style：对样式进行优化（不影响文档表意的变动）
 - refactor：重构（不影响文档表意的情况下对文档进行重新编写）
 - perf：优化文档，例如：文档表意不明确的地方进行进一步说明等
 - revert：回滚到上一个版本
@@ -71,5 +71,3 @@
 - revert：回滚到上一个版本
 - merge：合并
 - sync：同步变动
-
-## 文档编写规范
