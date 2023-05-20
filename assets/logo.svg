@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<path d="M770.875 772C738.363 772 712 794.794 712 822.906L712 872L813.125 872C845.637 872 872 849.206 872 821.094L872 772L770.875 772Z" id="Fill"/>
+<path d="M779.328 944.97L779.328 837.001L804.672 837.001L804.672 901.345C804.672 920.047 794.413 936.195 779.328 944.97Z" id="Fill_2"/>
+<path d="M804.672 699.03L804.672 806.999L779.328 806.999L779.328 742.655C779.328 723.953 789.587 707.805 804.672 699.03Z" id="Fill_3"/>
+<path d="M388 252C346.032 252 312 286.032 312 328L312 436L312 562.656L312 616.656L312 670.688C312 712.656 346.032 746.656 388 746.656L442 746.656L582 746.656C653.797 746.656 712 688.453 712 616.656C712 544.859 653.797 486.656 582 486.656L541.25 486.656L612 425.344L662 382L612 338.656L512 252L388 252Z" id="Fill_4"/>
+</defs>
+<g id="边框">
+<path d="M210.875 152C178.363 152 152 174.794 152 202.906L152 821.094C152 849.206 178.363 872 210.875 872L686.656 872L686.656 846.656L210.875 846.656C191.6 846.656 177.344 834.333 177.344 821.094L177.344 202.906C177.344 189.668 191.6 177.344 210.875 177.344L813.125 177.344C832.4 177.344 846.656 189.668 846.656 202.906L846.656 746.656L872 746.656L872 202.906C872 174.794 845.637 152 813.125 152L210.875 152Z" fill="#161823" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+<g id="右下角文字">
+<g opacity="1">
+<mask height="100" id="StrokeMask" maskUnits="userSpaceOnUse" width="160" x="712" y="772">
+<rect fill="#000000" height="100" stroke="none" width="160" x="712" y="772"/>
+<use fill="#ffffff" fill-rule="evenodd" stroke="none" xlink:href="#Fill"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask)" stroke="#be002f" stroke-linecap="butt" stroke-linejoin="round" stroke-width="50.66" xlink:href="#Fill"/>
+</g>
+<path d="M792 797L792 847" fill="none" opacity="1" stroke="#be002f" stroke-linecap="butt" stroke-linejoin="round" stroke-width="25.33"/>
+<g opacity="1">
+<use fill="#be002f" fill-rule="nonzero" stroke="none" xlink:href="#Fill_2"/>
+<mask height="107.969" id="StrokeMask_2" maskUnits="userSpaceOnUse" width="25.3438" x="779.328" y="837.001">
+<rect fill="#000000" height="107.969" stroke="none" width="25.3438" x="779.328" y="837.001"/>
+<use fill="#ffffff" fill-rule="evenodd" stroke="none" xlink:href="#Fill_2"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask_2)" stroke="#be002f" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2" xlink:href="#Fill_2"/>
+</g>
+<g opacity="1">
+<use fill="#be002f" fill-rule="nonzero" stroke="none" xlink:href="#Fill_3"/>
+<mask height="107.969" id="StrokeMask_3" maskUnits="userSpaceOnUse" width="25.3438" x="779.328" y="699.03">
+<rect fill="#000000" height="107.969" stroke="none" width="25.3438" x="779.328" y="699.03"/>
+<use fill="#ffffff" fill-rule="evenodd" stroke="none" xlink:href="#Fill_3"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask_3)" stroke="#be002f" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2" xlink:href="#Fill_3"/>
+</g>
+</g>
+<g id="内部导航边框">
+<g opacity="1">
+<mask height="494.656" id="StrokeMask_4" maskUnits="userSpaceOnUse" width="400" x="312" y="252">
+<rect fill="#000000" height="494.656" stroke="none" width="400" x="312" y="252"/>
+<use fill="#ffffff" fill-rule="evenodd" stroke="none" xlink:href="#Fill_4"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask_4)" stroke="#161823" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="50.66" xlink:href="#Fill_4"/>
+</g>
+</g>
+<g id="内部导航条">
+<g opacity="1">
+<path d="M453.129 347.135L550.211 347.135C564.824 347.135 576.67 358.475 576.67 372.465L576.67 372.465C576.67 386.454 564.824 397.795 550.211 397.795L453.129 397.795C438.516 397.795 426.67 386.454 426.67 372.465L426.67 372.465C426.67 358.475 438.516 347.135 453.129 347.135Z" fill="#bc002e" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M357.29 372.465C357.29 358.475 368.631 347.135 382.62 347.135C396.61 347.135 407.95 358.475 407.95 372.465C407.95 386.454 396.61 397.795 382.62 397.795C368.631 397.795 357.29 386.454 357.29 372.465Z" fill="#161823" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+<g opacity="1">
+<path d="M452 640.497L601.34 640.497C615.329 640.497 626.67 651.838 626.67 665.827L626.67 665.827C626.67 679.817 615.329 691.157 601.34 691.157L452 691.157C438.011 691.157 426.67 679.817 426.67 665.827L426.67 665.827C426.67 651.838 438.011 640.497 452 640.497Z" fill="#bc002e" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M357.29 665.827C357.29 651.838 368.631 640.497 382.62 640.497C396.61 640.497 407.95 651.838 407.95 665.827C407.95 679.817 396.61 691.157 382.62 691.157C368.631 691.157 357.29 679.817 357.29 665.827Z" fill="#161823" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+<g opacity="1">
+<path d="M452 539.177L601.34 539.177C615.329 539.177 626.67 550.518 626.67 564.507L626.67 564.507C626.67 578.497 615.329 589.837 601.34 589.837L452 589.837C438.011 589.837 426.67 578.497 426.67 564.507L426.67 564.507C426.67 550.518 438.011 539.177 452 539.177Z" fill="#bc002e" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M357.29 564.507C357.29 550.518 368.631 539.177 382.62 539.177C396.61 539.177 407.95 550.518 407.95 564.507C407.95 578.497 396.61 589.837 382.62 589.837C368.631 589.837 357.29 578.497 357.29 564.507Z" fill="#161823" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</g>
+</svg>
