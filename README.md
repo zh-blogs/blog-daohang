@@ -1,21 +1,19 @@
 ## 中文博客列表导航项目
 
-
-
 <table>
-<td style="width:200px">
-	<img align="right" src="./assets/logo.svg" alt="logo" height="200px" style="background: #FFF;border-radius: 20px"/>
+<td>
+	<img align="right" src="./assets/logo.svg" alt="logo" width="500px"/>
 </td>
 <td>
 	<h4>
         <p>
-            <img src="https://img.shields.io/github/stars/zh-blogs/blog-daohang?style=for-the-badge" referrerpolicy="no-referrer" alt="stars">  |  
-            <img src="https://img.shields.io/badge/%E7%9B%AE%E5%89%8D%E7%89%88%E6%9C%AC-V2-reen?style=for-the-badge" referrerpolicy="no-referrer" alt="stars">  |  
+            <img src="https://img.shields.io/github/stars/zh-blogs/blog-daohang?style=for-the-badge" referrerpolicy="no-referrer" alt="stars">&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="https://img.shields.io/badge/%E7%9B%AE%E5%89%8D%E7%89%88%E6%9C%AC-V2-reen?style=for-the-badge" referrerpolicy="no-referrer" alt="stars">&nbsp;&nbsp;&nbsp;&nbsp;
             <img src="https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E4%B8%AD-V3-orange?style=for-the-badge" referrerpolicy="no-referrer" alt="stars">
         </p>
         <p>
-        目前我们依旧在维护 <a href="https://github.com/zh-blogs/v2">V2 版本</a> 的项目程序，V3 版本的项目程序正在积极开发中，项目所涉及的审核标准和相关流程也在逐渐完善中，诚挚邀请对项目感兴趣的您参与到本项目的建设当中来，您可以选择<b>参与开发</b>和<b>参与维护</b>的任意一项，通过本项目的 issue 联系我们。<br/>
-        当然，如果您对本项目有更好的建议或者意见，也欢迎您通过 issue 向我们反馈，我们会慎重考虑您的意见和意见。<br/>
+        目前我们依旧在维护 <a href="https://github.com/zh-blogs/v2">V2 版本</a> 的项目程序，V3 版本的项目程序正在积极开发中，项目所涉及的审核标准和相关流程也在逐渐完善中，诚挚邀请对项目感兴趣的您参与到本项目的建设当中来，您可以选择<b>参与开发</b>和<b>参与维护</b>的任意一项，通过本项目的 issue 联系我们。<br/><br/>
+        当然，如果您对本项目有更好的建议或者意见，也欢迎您通过 issue 向我们反馈，我们会慎重考虑您的意见和意见。<br/><br/>
         <a href="https://github.com/zh-blogs/frontend">中文博客列表导航 V3 版本前端</a>  |  <a href="https://github.com/zh-blogs/backend">中文博客列表导航V3版本后端</a>  |  <a href="https://github.com/zh-blogs/blog-daohang/issues/new/choose">联系我们</a>
         </p>
     </h4>
