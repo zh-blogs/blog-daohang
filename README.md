@@ -50,11 +50,11 @@
 
 |               标准名称               |                           标准说明                           |
 | :----------------------------------: | :----------------------------------------------------------: |
-| [博客定义](./document/Definition.md) |           本项目对于个人博客的定义、博客收录的标准           |
-|  [博客收录](./document/Included.md)  | 维护组收录的博客说明、自主提交博客收录的说明、对项目收录上游库进行说明 |
-|  [精选博客](./document/Selected.md)  |               本项目对精选博客的定义和筛选说明               |
-|    [博客分类](./document/Tags.md)    |             本项目对于博客的分类和博客 Tag 说明              |
-|  [分类说明](./document/TagsInfo.md)  |             本项目对于博客的分类和博客 Tag 释义              |
+| [博客定义](./document/Definition.md) |        本项目对于个人博客的定义、博客收录的标准 – 空         |
+|   [博客收录](./document/Includ.md)   | 维护组收录的博客说明、自主提交博客收录的说明、对项目收录上游库进行说明 |
+|    [博客分类](./document/Tag.md)     |             本项目对于博客的分类和博客 Tag 说明              |
+|  [精选博客](./document/Selected.md)  |            本项目对精选博客的定义和筛选说明 – 空             |
+|  [分类说明](./document/TagsInfo.md)  |           本项目对于博客的分类和博客 Tag 释义 – 空           |
 
 您可以阅读以上项目的部分细则，也欢迎您对部分细则提出建议或意见，用以不断完善相关标准和流程。
 
@@ -72,7 +72,9 @@
 ## 参与开发
 
 参与 V3 版本前端开发，请参考：[V3 版本前端贡献](https://github.com/zh-blogs/frontend/blob/main/CONTRIBUTING.md)
+
 参与本项目相关标准构建，请参考：[项目标准贡献](./CONTRIBUTING.md)
+
 参与 V3 版本后端开发与项目列表维护，请通过 [Issues · zh-blogs/blog-daohang](https://github.com/zh-blogs/blog-daohang/issues/new/choose) 与我们联系
 
 ## 感谢以下成员对本项目的贡献（按照首字母排序）
