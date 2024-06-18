@@ -64,6 +64,8 @@
 | [zkeq](https://github.com/zkeq) | [linlinzzo（列表维护组负责人）](https://github.com/linlinzzo) |
 |        |   [MYXXTS（列表维护组负责人）](https://github.com/MYXXTS)   |
 |            | [Timozaici](https://github.com/Timozaici)  |
+|            | [Kegongteng](https://github.com/gtxykn0504)  |
+|            | [Percival Zheng](https://github.com/Lafcadia)  |
 
 ### 感谢以下网站对本项目的宣传
 
