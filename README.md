@@ -66,6 +66,7 @@
 |            | [Timozaici](https://github.com/Timozaici)  |
 |            | [gtxykn0504](https://github.com/gtxykn0504)  |
 |            | [Lafcadia](https://github.com/Lafcadia)  |
+|            | [澄沨](https://github.com/aquausora)  |
 
 ### 感谢以下网站对本项目的宣传
 
