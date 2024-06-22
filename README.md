@@ -28,7 +28,7 @@
 
 ## 功能列表
 
-此项目尝试链接全部中文独立博客，目前含有如下功能：
+本项目尝试链接全部中文独立博客，目前含有如下功能：
 
 1. **查看随机推荐的博客**。
 2. **随机前往已收录的博客**，您可以通过在 URL 添加参数进行指定类型博客的随机跳转，如：[https://zhblogs.ohyee.cc/go?tags=生活](https://zhblogs.ohyee.cc/go?tags=生活)，即可随机访问生活类博客。
@@ -46,17 +46,13 @@
 
 ## 项目相关标准
 
-我们对项目实行的相关标准和流程公示如下：
+我们对项目实行的相关标准和流程（下称 **文档**）放置在当前项目仓库的 [WIKI]() 选项卡中，您可以点击链接前往阅读。
 
-|               标准名称               |                           标准说明                           |
-| :----------------------------------: | :----------------------------------------------------------: |
-| [博客定义](./document/Definition.md) |        本项目对于个人博客的定义、博客收录的标准 – 空         |
-|   [博客收录](./document/Include.md)   | 维护组收录的博客说明、自主提交博客收录的说明、对项目收录上游库进行说明 |
-|    [博客分类](./document/Tag.md)     |             本项目对于博客的分类和博客 Tag 说明              |
-|  [精选博客](./document/Selected.md)  |            本项目对精选博客的定义和筛选说明 – 空             |
-|  [分类说明](./document/TagsInfo.md)  |           本项目对于博客的分类和博客 Tag 释义 – 空           |
+以下是文档的简要目录和说明：
 
-您可以阅读以上项目的部分细则，也欢迎您对部分细则提出建议或意见，用以不断完善相关标准和流程。
+> Work In Process
+
+欢迎您对项目文档提出意见或建议，我们会考虑您的提议，来不断完善本项目的各种标准和流程。
 
 ## 支持我们
 
@@ -65,35 +61,44 @@
 1. 您可以在项目中搜索您的博客，若未收录，您可以在 issue 中找到申请添加的链接，若已收录，您可以在 issue 中找到信息完善的选项，帮助我们完善您博客的相关信息。
 2. 您可以为本仓库点一个 Star。
 3. 您可以为本项目做宣传，让更多博主知道本项目。
-4. 您可以加入本项目的技术组或者列表维护组，对本项目进行维护。
+4. 您可以加入本项目的技术组或者维护组，对本项目进行维护。
 
-**若您有博客申请收录、博客信息修改、博客失效反馈、博客信息完善、项目 BUG 反馈、项目功能建议、项目合作申请、项目加入申请等内容需要与项目组进行反馈，您可以前往 [Issues · zh-blogs/blog-daohang](https://github.com/zh-blogs/blog-daohang/issues/new/choose) 选择对应的模板进行反馈**
+> 若您有博客申请收录、博客信息修改、博客失效反馈、博客信息完善、项目 BUG 反馈、项目功能建议等内容需要与项目组进行反馈，您可以前往 [Issues · zh-blogs/blog-daohang](https://github.com/zh-blogs/blog-daohang/issues/new/choose) 选择对应的模板进行反馈
+>
+> 参与本项目相关标准构建，请参考：[项目标准贡献](./CONTRIBUTING.md)
+>
+> 参与 V3 版本前端开发，请参考：[V3 版本前端贡献](https://github.com/zh-blogs/V3-frontend/blob/main/CONTRIBUTING.md)
+>
+> 参与 V3 版本后端开发，以及加入项目维护组请通过上方 **Issue 选项卡中的加入我们** 与我们联系
 
-## 参与开发
+## 维护成员名单（排名不分先后）
 
-参与 V3 版本前端开发，请参考：[V3 版本前端贡献](https://github.com/zh-blogs/frontend/blob/main/CONTRIBUTING.md)
+> 本项目尊重维护人员个人意愿，根据维护人员个人情况决定对项目是否继续进行维护。
+>
+> 依照 [项目维护意向调查 Issue #24](https://github.com/zh-blogs/blog-daohang/issues/24) 
+>
+> 感谢对本项目做出贡献的各位维护人员，你们的付出是对本项目最大的支持和鼓励。
 
-参与本项目相关标准构建，请参考：[项目标准贡献](./CONTRIBUTING.md)
+现项目维护人员：
 
-参与 V3 版本后端开发与项目列表维护，请通过 [Issues · zh-blogs/blog-daohang](https://github.com/zh-blogs/blog-daohang/issues/new/choose) 与我们联系
+> 技术组：负责对本项目的相关程序进行开发和维护，包括但不限于项目的前端、后端、数据同步工具等。
+>
+> 维护组：负责对本项目的项目数据进行维护，包括但不限于项目博客审核、信息完善、标准完善等。
 
-## 感谢以下成员对本项目的贡献（按照首字母排序）
+|                      技术组                       |                            维护组                            |
+| :-----------------------------------------------: | :----------------------------------------------------------: |
+| [OhYee（技术组负责人）](https://github.com/OhYee) | [linlinzzo（项目整体负责人、维护组负责人）](https://github.com/linlinzzo) |
+| [soxft（技术组负责人）](https://github.com/soxft) | [MYXXTS（维护组负责人、项目标准制定人）](https://github.com/MYXXTS) |
+|         [Mabbs](https://github.com/Mabbs)         |          [aquausora](https://github.com/aquausora)           |
+|     [wibus-wee](https://github.com/wibus-wee)     |         [gtxykn0504](https://github.com/gtxykn0504)          |
+|    [liangmiQwQ](https://github.com/liangmiQwQ)    |           [Lafcadia](https://github.com/Lafcadia)            |
+|     [Redish101](https://github.com/Redish101)     |                                                              |
 
-|         项目技术组（负责项目程序开发与维护）          |                列表维护组（负责列表数据维护）                 |
-| :---------------------------------------------------: | :-----------------------------------------------------------: |
-|           [Innei](https://github.com/Innei)           |              [Dian-C](https://github.com/Dian-C)              |
-|         [jsun969](https://github.com/jsun969)         |            [huziyan1](https://github.com/huziyan1)            |
-| [OhYee（项目技术组负责人）](https://github.com/OhYee) |          [jonepengcn](https://github.com/jonepengcn)          |
-| [soxft（项目技术组负责人）](https://github.com/soxft) |            [Kagurain](https://github.com/Kagurain)            |
-|       [wibus-wee](https://github.com/wibus-wee)       |            [liangmis](https://github.com/liangmis)            |
-|            [zkeq](https://github.com/zkeq)            | [linlinzzo（列表维护组负责人）](https://github.com/linlinzzo) |
-|                                                       |    [MYXXTS（列表维护组负责人）](https://github.com/MYXXTS)    |
-|                                                       |           [Timozaici](https://github.com/Timozaici)           |
-|                                                       |           [Kegongteng](https://github.com/gtxykn0504)  |
-|                                                       |           [Lafcadia](https://github.com/Lafcadia)              |
-|                                                       |           [aquausora](https://github.com/aquausora)       |
+前项目维护人员：
 
-## 感谢以下网站对本项目的宣传
+[@Innei](https://github.com/Innei) [@jsun969](https://github.com/jsun969) [@zkeq](https://github.com/zkeq) [@Dian-C](https://github.com/Dian-C) [@huziyan1](https://github.com/huziyan1) [@jonepengcn](https://github.com/jonepengcn) [@Kagurain](https://github.com/Kagurain) [@liangmis](https://github.com/liangmis) [@Timozaici](https://github.com/Timozaici) [@Changrui0101](https://github.com/Changrui0101) [@Lfhsheng](https://github.com/Lfhsheng) [@hydrogenoxide-user](https://github.com/hydrogenoxide-user) [@Innei](https://github.com/Innei) [@Amitabha](https://github.com/Amitabha)  [@waterelegance](https://github.com/waterelegance)  [@linhaii](https://github.com/linhaii) [@yzqzss](https://github.com/yzqzss) [@hilllei](https://github.com/hilllei)
+
+## 感谢以下网站对本项目的宣传29   25
 
 [友链 – 阿锋的小宇宙 (feng.pub)](https://feng.pub/links)
 
@@ -101,10 +106,6 @@
 
 [中文博客列表导航项目 - 杜老师说 (dusays.com)](https://dusays.com/494/)
 
-[友情链接 · 雅余 · 茶余饭后，闲情雅致 (yayu.net)](https://www.yayu.net/links/)
-
-[左邻右舍 - HONG的小站 (hongweblog.com)](https://hongweblog.com/friend)
-
 [谈谈几个博客聚合网站，以及个人推荐 – 铎鸣也 (wordpress.com)](https://zhengduo.wordpress.com/2022/12/09/zh-blogs-site-link/)
 
-[万亿及秭 - peachRL的小站 (wanyijizi.com)](https://wanyijizi.com/)
+[万亿及秭 - peachRL 的小站 (wanyijizi.com)](https://wanyijizi.com/)
