@@ -1,0 +1,44 @@
+name: Project Proposal（项目建议）
+description: 项目网站功能、项目相关标准建议
+title: "[Proposal]-<建议方向>-<建议的内容>"
+labels:
+  - Proposal（项目建议）
+assignees:
+  - ohyee
+  - soxft
+  - linlinzzo
+  - MYXXTS
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## zhblogs Project Proposal 模板
+        ---
+        ***请按照已给出的标题格式替换并补充 <> 内部的信息***
+        非常感谢您给本项目提出的建议，我们会认真对待每一条建议，如果您的建议被采纳，我们会在项目中标注您的贡献。
+        请按照下面的模板填写，方便我们更快的了解您对本项目提出的建议。
+  - type: dropdown
+    id: proposal_direction
+    attributes:
+      label: 建议方向
+      description: 请选择建议的方向
+      options:
+        - 网站功能
+        - 项目相关标准
+        - 其他
+    validations:
+      required: true
+  - type: input
+    id: proposal_direction_other
+    attributes:
+      label: 其他建议方向
+      description: 如果选择了其他，请填写具体内容
+      placeholder: 具体内容
+  - type: textarea
+    id: proposal_content
+    attributes:
+      label: 建议内容
+      description: 请填写您的建议内容
+      placeholder: 建议内容
+    validations:
+      required: true

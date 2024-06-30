@@ -1,0 +1,55 @@
+name: Bug Report（项目 Bug 反馈）
+description: 项目 Bug 反馈
+title: "[Bug]-"
+labels:
+  - Bug（项目 Bug 反馈）
+assignees:
+  - ohyee
+  - soxft
+  - wibus-wee
+  - liangmiQwQ
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## zhblogs Bug Report 模板
+        ---
+        ***请按照已给出的标题格式补充简要的信息***
+        请在反馈之前在 [Issues](https://github.com/zh-blogs/blog-daohang/issues) list 中搜索是否已经有人反馈过相同的问题（请善用标签），如果有请在已有的 Issue 下进行跟进。
+        请按照下面的模板填写，方便我们更快的定位问题。
+  - type: input
+    id: bug_url
+    attributes:
+      label: Bug URL
+      description: 请填写出现问题的页面 URL
+      placeholder: https://zhblogs.ohyee.cc/
+    validations: 
+      required: true
+  - type: input
+    id: bug_time
+    attributes:
+      label: Bug 时间
+      description: 请填写出现问题的时间
+      placeholder: 请填写出现问题的时间
+    validations:
+      required: true
+  - type: textarea
+    id: bug_desc
+    attributes:
+      label: Bug 描述
+      description: 请详细对问题进行描述，并且提供可能的复现方式，如果需要对服务不可用进行报告，请提供详细的信息
+      placeholder: 请详细对问题进行描述，并且提供可能的复现方式，如果需要对服务不可用进行报告，请提供详细的信息
+    validations:
+      required: true
+  - type: textarea
+    id: bug_image
+    attributes:
+      label: Bug 截图
+      description: 请提供问题截图
+      placeholder: 请提供问题截图
+  - type: input
+    id: bug_other
+    attributes:
+      label: 其他信息
+      description: 其他补充信息
+      placeholder: 其他补充信息

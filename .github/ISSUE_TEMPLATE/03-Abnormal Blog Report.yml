@@ -1,0 +1,68 @@
+name: Abnormal Blog Report（异常博客反馈）
+description: 异常博客反馈
+title: "[Abnormal]-<博客名称>-<博客的 idx>"
+labels:
+  - Abnormal（异常博客）
+assignees:
+  - MYXXTS
+  - aquausora
+  - gtxykn0504
+  - linlinzzo
+  - Lafcadia
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## zhblogs Abnormal Blog Report 模板
+        ---
+        ***请按照已给出的标题格式替换并补充 <> 内部的信息***
+        请在反馈之前在 [Issues](https://github.com/zh-blogs/blog-daohang/issues) list 中搜索是否已经有人反馈过同一博客的问题（请善用标签）。
+        请尽可能在已有的 Issue 下进行跟进，允许 Reopen Issue 进行补充反馈。
+        请按照下面的模板填写，方便我们更快的定位问题。
+  - type: input
+    id: blog_name
+    attributes:
+      label: 博客名称
+      description: 请填写博客名称
+      placeholder: 博客名称
+    validations: 
+      required: true
+  - type: input
+    id: blog_idx
+    attributes:
+      label: 博客 idx
+      description: 请填写博客的 idx
+      placeholder: 博客 idx
+    validations: 
+      required: true
+  - type: input
+    id: blog_url
+    attributes:
+      label: 博客 URL
+      description: 请填写博客的 URL
+      placeholder: 博客的 URL
+    validations: 
+      required: true
+  - type: dropdown
+    id: blog_abnormal_type
+    attributes:
+      label: 博客异常类型
+      description: 请选择博客的异常类型
+      multiple: true
+      options:
+        - 博客无法访问
+        - 博客内容为空
+        - 博客内容较少
+        - 博客内容不是博客
+        - 博客内容不是中文
+        - 博客内容不是原创
+        - 博客部分内容不宜展示
+        - 其他
+    validations:
+      required: true
+  - type: input
+    id: blog_abnormal_other
+    attributes:
+      label: 其他异常类型
+      description: 如果选择了其他，请填写其他异常类型
+      placeholder: 其他异常类型

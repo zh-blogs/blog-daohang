@@ -1,0 +1,48 @@
+name: Join Us（加入我们）
+description: 加入我们，一起完善博客导航项目
+title: "[Join]-<您的 Github ID>-申请加入项目组"
+labels:
+  - Join（加入申请）
+assignees:
+  - ohyee
+  - soxft
+  - linlinzzo
+  - MYXXTS
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## zhblogs Join Us 模板
+        ---
+        ***请按照已给出的标题格式替换并补充 <> 内部的信息***
+        非常感谢您能够加入本项目组，为本项目的发展提供帮助。
+        请按照下面的模板填写，方便我们了解您的加入申请
+  - type: input
+    id: github_id
+    attributes:
+      label: Github ID
+      description: 请填写您的 Github ID
+      placeholder: Github ID
+    validations:
+      required: true
+  - type: dropdown
+    id: join_us_type
+    attributes:
+      label: 加入方向
+      description: 请选择您的加入方式（可以多选）
+      multiple: true
+      options:
+        - 项目前端开发
+        - 项目后端开发
+        - 项目数据相关开发（一些同步脚本的自动化开发）
+        - 项目列表维护（项目列表审核人员）
+        - 项目文档维护（对项目相关标准进行补充和修正）
+        - 其他
+    validations:
+      required: true
+  - type: input
+    id: join_us_type_other
+    attributes:
+      label: 其他加入方向
+      description: 如果选择了其他，请填写具体内容
+      placeholder: 加入方向

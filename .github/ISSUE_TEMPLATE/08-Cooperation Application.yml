@@ -1,0 +1,59 @@
+name: Cooperation Application（合作申请）
+description: 欢迎与我们合作
+title: "[Cooperation]-<您的组织/个人名称>-<合作方向>"
+labels:
+  - Cooperation（合作申请）
+assignees:
+  - ohyee
+  - soxft
+  - linlinzzo
+  - MYXXTS
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## zhblogs Cooperation Application 模板
+        ---
+        ***请按照已给出的标题格式替换并补充 <> 内部的信息***
+        感谢您对本项目的支持，我们非常欢迎您的合作申请。
+        请按照下面的模板填写，方便我们了解您的合作申请。
+  - type: input
+    id: organization_name
+    attributes:
+      label: 合作组织/个人名称
+      description: 请填写您的组织/个人名称
+      placeholder: 组织/个人名称
+    validations:
+      required: true
+  - type: input
+    id: organization_url
+    attributes:
+      label: 合作组织/个人 URL
+      description: 请填写您的组织/个人 URL
+      placeholder: 组织/个人 URL
+    validations:
+      required: true
+  - type: input
+    id: cooperation_direction
+    attributes:
+      label: 合作方向
+      description: 请填写您的合作方向
+      placeholder: 合作方向
+    validations:
+      required: true
+  - type: textarea
+    id: cooperation_description
+    attributes:
+      label: 合作内容
+      description: 请对您想要合作的方向进行说明
+      placeholder: 合作内容
+    validations:
+      required: true
+  - type: input
+    id: cooperation_contact
+    attributes:
+      label: 联系方式
+      description: 请填写您的联系方式
+      placeholder: 联系方式
+    validations:
+      required: true
