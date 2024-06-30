@@ -15,7 +15,7 @@ body:
       value: |
         ## zhblogs Modify & Improve Blog Information Report 模板
         ---
-        <strong style="color: #ff0000">请按照已给出的标题格式替换并补充 <> 内部的信息</strong>
+        ***请按照已给出的标题格式替换并补充 <> 内部的信息***
         请在反馈之前在 [Issues](https://github.com/zh-blogs/blog-daohang/issues) list 中搜索是否已经有人反馈过同一博客的问题（请善用标签）。
         请尽可能在已有的 Issue 下进行跟进，允许 Reopen Issue 进行补充反馈。
         请按照下面的模板填写，方便我们更快的定位问题。

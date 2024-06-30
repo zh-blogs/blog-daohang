@@ -15,7 +15,7 @@ body:
       value: |
         ## zhblogs Document Issue Report 模板
         ---
-        <strong style="color: #ff0000">请按照已给出的标题格式补充简要的信息</strong>
+        ***请按照已给出的标题格式补充简要的信息***
         请在反馈之前在 [Issues](https://github.com/zh-blogs/blog-daohang/issues) list 中搜索是否已经有人反馈过相同的问题（请善用标签），如果有请在已有的 Issue 下进行跟进。
         请按照下面的模板填写，方便我们更快的定位问题。
   - type: textarea
