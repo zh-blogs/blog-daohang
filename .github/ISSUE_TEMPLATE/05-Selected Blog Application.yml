@@ -1,8 +1,8 @@
-name: Modify & Improve Blog Information Report（修改和完善博客信息）
+name: Selected Blog Application（精选博客申请）
 description: 修改和完善博客信息
-title: "[Modify & Improve]-<博客名称>-<博客的 idx>"
+title: "[Selected]-<博客名称>-<博客的 idx>"
 labels:
-  - Modify & Improve（修改和完善）
+  - Selected Blog（精选博客）
 assignees:
   - MYXXTS
   - aquausora
@@ -43,31 +43,11 @@ body:
       placeholder: 博客的 URL
     validations: 
       required: true
-  - type: dropdown
-    id: blog_modify_improve_type
-    attributes:
-      label: 修改或完善的字段
-      description: 请选择博客需要修改或完善的字段
-      multiple: true
-      options:
-        - 博客名称
-        - 博客 URL
-        - 博客描述
-        - 博客 RSS 订阅地址
-        - 博客网站地图（SiteMap）地址 
-        - 博客所用程序（架构）
-        - 博客标签（Tag）
-    validations:
-      required: true
   - type: textarea
-    id: blog_modify_improve_content
+    id: selected_blog_application_content
     attributes:
-      label: 修改或完善的内容
-      description: |
-        请按照上方选择的字段填写需要修改或完善的内容，每行一个字段
-        示例：如果选择了博客名称和博客描述，那么请按照以下格式填写：
-        博客名称：XXX
-        博客描述：XXX
-      placeholder: 请填写博客需要修改和完善的内容
+      label: 申请原因
+      description: 请填写申请精选博客的原因
+      placeholder: 请填写申请原因
     validations: 
       required: true
