@@ -1,0 +1,28 @@
+name: Document Issue Report（文档问题反馈）
+description: 文档问题反馈
+title: "[Document Issue]-"
+labels:
+  - Document Issue（文档问题)
+assignees:
+  - MYXXTS
+  - aquausora
+  - gtxykn0504
+  - linlinzzo
+  - Lafcadia
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## zhblogs Document Issue Report 模板
+        ---
+        <strong style="color: #ff0000">请按照已给出的标题格式补充简要的信息</strong>
+        请在反馈之前在 [Issues](https://github.com/zh-blogs/blog-daohang/issues) list 中搜索是否已经有人反馈过相同的问题（请善用标签），如果有请在已有的 Issue 下进行跟进。
+        请按照下面的模板填写，方便我们更快的定位问题。
+  - type: textarea
+    id: document_issue_description
+    attributes:
+      label: 文档问题说明
+      description: 请填写文档问题的说明
+      placeholder: 文档问题的说明
+    validations:
+      required: true
