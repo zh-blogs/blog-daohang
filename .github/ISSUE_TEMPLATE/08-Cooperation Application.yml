@@ -15,7 +15,7 @@ body:
         ## zhblogs Cooperation Application 模板
         ---
         ***请按照已给出的标题格式替换并补充 <> 内部的信息***
-        感谢您对本项目的支持，我们非常欢迎您的合作申请。
+        感谢您对本项目的支持，我们非常欢迎您提交合作申请。
         请按照下面的模板填写，方便我们了解您的合作申请。
   - type: input
     id: organization_name
