@@ -93,8 +93,8 @@
 | [OhYee（技术组负责人）](https://github.com/OhYee) | [linlinzzo（项目整体负责人、维护组负责人）](https://github.com/linlinzzo) |
 | [soxft（技术组负责人）](https://github.com/soxft) | [MYXXTS（维护组负责人、项目标准制定人）](https://github.com/MYXXTS) |
 |         [Mabbs](https://github.com/Mabbs)         |          [aquausora](https://github.com/aquausora)           |
-|     [wibus-wee](https://github.com/wibus-wee)     |         [gtxykn0504](https://github.com/gtxykn0504)          |
-|    [liangmiQwQ](https://github.com/liangmiQwQ)    |           [Lafcadia](https://github.com/Lafcadia)            |
+|     [wibus-wee](https://github.com/wibus-wee)     |              [Lafcadia](https://github.com/Lafcadia)     |
+|    [liangmiQwQ](https://github.com/liangmiQwQ)    |                       |
 |     [Redish101](https://github.com/Redish101)     |                                                              |
 
 前项目维护人员：
