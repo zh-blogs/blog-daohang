@@ -99,7 +99,7 @@
 
 前项目维护人员：
 
-[@Innei](https://github.com/Innei) [@jsun969](https://github.com/jsun969) [@zkeq](https://github.com/zkeq) [@Dian-C](https://github.com/Dian-C) [@huziyan1](https://github.com/huziyan1) [@jonepengcn](https://github.com/jonepengcn) [@Kagurain](https://github.com/Kagurain) [@liangmis](https://github.com/liangmis) [@Timozaici](https://github.com/Timozaici) [@Changrui0101](https://github.com/Changrui0101) [@Lfhsheng](https://github.com/Lfhsheng) [@hydrogenoxide-user](https://github.com/hydrogenoxide-user) [@Innei](https://github.com/Innei) [@Amitabha](https://github.com/Amitabha)  [@waterelegance](https://github.com/waterelegance)  [@linhaii](https://github.com/linhaii) [@yzqzss](https://github.com/yzqzss) [@hilllei](https://github.com/hilllei)
+[@Innei](https://github.com/Innei) [@jsun969](https://github.com/jsun969) [@zkeq](https://github.com/zkeq) [@Dian-C](https://github.com/Dian-C) [@huziyan1](https://github.com/huziyan1) [@jonepengcn](https://github.com/jonepengcn) [@Kagurain](https://github.com/Kagurain) [@liangmis](https://github.com/liangmis) [@Timozaici](https://github.com/Timozaici) [@Changrui0101](https://github.com/Changrui0101) [@Lfhsheng](https://github.com/Lfhsheng) [@hydrogenoxide-user](https://github.com/hydrogenoxide-user) [@Innei](https://github.com/Innei) [@Amitabha](https://github.com/Amitabha)  [@waterelegance](https://github.com/waterelegance)  [@linhaii](https://github.com/linhaii) [@yzqzss](https://github.com/yzqzss) [@hilllei](https://github.com/hilllei)[@gtxykn0504](https://github.com/gtxykn0504/)
 
 ## 感谢以下网站对本项目的宣传
 
