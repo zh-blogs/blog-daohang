@@ -1,8 +1,8 @@
-name: Abnormal Blog Report（异常博客反馈）
-description: 异常博客反馈
-title: "[Abnormal]-<博客名称>-<博客的 idx>"
+name: Blog Issue Report（博客问题反馈）
+description: 博客问题反馈
+title: "[Blog Issue]-<博客名称>-<博客的 idx>"
 labels:
-  - Abnormal（异常博客）
+  - Blog Issue（博客问题）
 assignees:
   - MYXXTS
   - aquausora
@@ -25,7 +25,7 @@ body:
       label: 博客名称
       description: 请填写博客名称
       placeholder: 博客名称
-    validations: 
+    validations:
       required: true
   - type: input
     id: blog_idx
@@ -33,7 +33,7 @@ body:
       label: 博客 idx
       description: 请填写博客的 idx
       placeholder: 博客 idx
-    validations: 
+    validations:
       required: true
   - type: input
     id: blog_url
@@ -41,7 +41,7 @@ body:
       label: 博客 URL
       description: 请填写博客的 URL
       placeholder: 博客的 URL
-    validations: 
+    validations:
       required: true
   - type: dropdown
     id: blog_abnormal_type
@@ -50,6 +50,7 @@ body:
       description: 请选择博客的异常类型
       multiple: true
       options:
+        - 取消博客收录
         - 博客无法访问
         - 博客内容为空
         - 博客内容较少
